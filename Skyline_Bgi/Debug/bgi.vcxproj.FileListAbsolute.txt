@@ -1,0 +1,4 @@
+D:\Download\BGI2010\bgi\Debug\bgi.exe
+D:\Download\BGI2010\bgi\Debug\bgi.pdb
+D:\Download\Skyline\BGI2010\bgi\Debug\bgi.exe
+D:\Download\Skyline\BGI2010\bgi\Debug\bgi.pdb
